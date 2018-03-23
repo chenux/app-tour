@@ -1,0 +1,24 @@
+{
+  "name": "app-tour",
+  "version": "1.0.0",
+  "description": "Tour para algún lenguaje de programación",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenux/app-tour.git"
+  },
+  "keywords": [
+    "tour",
+    "tips",
+    "build"
+  ],
+  "author": "José Luis Pérez Medina",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/chenux/app-tour/issues"
+  },
+  "homepage": "https://github.com/chenux/app-tour#readme"
+}
